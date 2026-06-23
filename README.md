@@ -12,7 +12,7 @@ Swampachinko 是一款以沼澤柏青哥為主題的惡搞模擬遊戲。
 
 本遊戲為純粹之戲仿創作，與現實賭博行為無關。
 
-/////////////////////////////////////////////////////////////////////////////////
+---
 
 Swampachinko is a parody pachinko simulation game set in a swamp.
 
